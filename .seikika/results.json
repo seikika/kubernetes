@@ -1,0 +1,91 @@
+{
+  "evidence": {
+    "docs": {
+      "doc:CHANGELOG.md": {
+        "links-resolve": [
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee",
+          "a829a2ee"
+        ]
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/kubernetes": {
+        "has-codeowners": [
+          "e92c3922"
+        ]
+      }
+    }
+  },
+  "format": "seikika-report/v1",
+  "portal": "kubernetes",
+  "results": {
+    "docs": {
+      "doc:AGENTS.md": {
+        "level": "bronze"
+      },
+      "doc:CHANGELOG.md": {
+        "failing": {
+          "links-resolve": 37
+        },
+        "level": "none"
+      },
+      "doc:CONTRIBUTING.md": {
+        "level": "bronze"
+      },
+      "doc:README.md": {
+        "level": "bronze"
+      },
+      "doc:SUPPORT.md": {
+        "level": "bronze"
+      },
+      "doc:code-of-conduct.md": {
+        "level": "bronze"
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/kubernetes": {
+        "failing": {
+          "codeowners-catch-all": 0,
+          "has-codeowners": 1,
+          "owners-are-teams": 0
+        },
+        "level": "none"
+      }
+    }
+  }
+}
